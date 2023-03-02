@@ -1,3 +1,5 @@
+### About me
+
 I am Rahul Kakodkar, Phd student in the [Pistikopoulos Group](https://parametric.tamu.edu/). My research focuses on developing tools for the modeling and optimzation of energy systems under uncertainty. Code that my group has made can be found [here](https://github.com/TAMUparametric). I also paint and write poetry, learn more about me
 on my [personal webpage](https://www.cacodcar.com/). 
 
