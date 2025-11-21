@@ -1,8 +1,9 @@
 ## About me
 
-I am Rahul Kakodkar, a post-doctoral research associate working with Professor Efstratios N. Pistikopoulos in the [Multiparametric Optimization and Control (Pistikopoulos) Group](https://parametric.tamu.edu/). My research focuses on developing tools for the modeling and optimization of energy systems under uncertainty. You can find my publications listed [here](https://scholar.google.com/citations?hl=en&user=KfIvcG4AAAAJ) and [here](https://parametric.tamu.edu/people/bio/?name=rahul). Computational tools developed by our group can be found [here](https://github.com/TAMUparametric). 
+I am Rahul Kakodkar, a post-doctoral research associate at the Texas A&M Energy Institute. 
+My research focuses on developing tools for the multiscale modeling and optimization of energy systems under uncertainty. 
 
-I also paint and write poetry, you can check that out on my [personal webpage](https://www.cacodcar.com/). 
+Visit my [personal webpage](https://www.cacodcar.com/) for more information.
 
 ## Current Open Source Projects
 * [energiapy](https://github.com/TAMUparametric/energiapy) - A **Python** package for data driven decision making and risk analysis of energy systems
